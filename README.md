@@ -12,7 +12,7 @@ Using Fisheriris and Ionosphere datasets
 ➢ Split the datasets randomly into a training (80 %) and a test set (20 %).
 
 Using linear SVM, report:
-Accuracy, precision, and recall, F1score, TPR, FPR.
+Accuracy, precision, and recall, F1-score, TPR, FPR.
 
 ➢ Scale datasets using standardization:
 Compute the mean and standard deviation of each feature (i.e., over a column in the training set).
