@@ -70,6 +70,12 @@ For all k values visualize data and cluster centers.
 For each dataset calculate:
 Training time and prediction time for SVM, Decision Tree, kNN and kMeans.
 
-Give these values with a table as in wiki.
+Give these values with a table as below.
 
-Plot F1-score and prediction time for all methods in same figure as in wiki.
+![alt text](https://i.imgur.com/tZepeVo.png)
+
+
+
+Plot F1-score and prediction time for all methods in same figure as below.
+
+![alt text](https://i.imgur.com/CldurQm.png)
