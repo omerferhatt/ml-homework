@@ -1,6 +1,6 @@
 # Machine Learning 101 Semester Homework
-Machine learning homework solutions
-for 
+Machine learning homework solutions for:
+
 https://drive.google.com/file/d/1EZujbZCLYt3bitAin_pj37lyEk_SQwfj/view?usp=sharing
 
 # Experiment 1
