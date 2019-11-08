@@ -3,6 +3,8 @@ Machine learning homework solutions for:
 
 https://drive.google.com/file/d/1EZujbZCLYt3bitAin_pj37lyEk_SQwfj/view?usp=sharing
 
+Using Fisheriris and Ionosphere datasets
+
 # Experiment 1
 
 ➢ Visualize data.
